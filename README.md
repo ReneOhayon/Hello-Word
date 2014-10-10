@@ -1,4 +1,4 @@
 Hello-Word
 ==========
 
-Repo Test
+This is a tests of a commit
